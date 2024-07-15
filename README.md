@@ -16,7 +16,7 @@ Welcome to the Interactive Quiz Game, a web-based application designed to test y
 4. **End of Quiz**: At the end of the quiz, view your final score and decide whether to play again or try a different difficulty or topic.
 
 ## Try It Out:
-Experience the Interactive Quiz Game yourself by visiting [Interactive Quiz Game](#) and test your knowledge in a fun and educational way!
+Experience the Interactive Quiz Game yourself by visiting [Interactive Quiz Game](http://quiz_game.rudra18.com/) and test your knowledge in a fun and educational way!
 
 ## Connect with Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rudraksh-sharma-402a6823b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to learn more about my projects and professional experience.
